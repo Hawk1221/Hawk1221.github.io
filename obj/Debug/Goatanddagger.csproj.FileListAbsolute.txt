@@ -1,0 +1,65 @@
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\ApplicationInsights.config
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\csc.exe
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\vbc.exe
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\VBCSCompiler.exe
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Goatanddagger.dll.config
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Goatanddagger.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Goatanddagger.pdb
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Web.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.ApplicationInsights.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Web.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.ApplicationInsights.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\obj\Debug\Goatanddagger.dll
+c:\users\hawk\documents\visual studio 2015\Projects\Goatanddagger\Goatanddagger\obj\Debug\Goatanddagger.pdb
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\ApplicationInsights.config
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\csc.exe
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\System.Collections.Immutable.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\vbc.exe
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\VBCSCompiler.exe
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\roslyn\VBCSCompiler.exe.config
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Goatanddagger.dll.config
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Goatanddagger.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Goatanddagger.pdb
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.DependencyCollector.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Web.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.WindowsServer.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.ApplicationInsights.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.DependencyCollector.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.Web.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.AI.WindowsServer.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.ApplicationInsights.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProjectsVS\Goatanddagger\Goatanddagger\obj\Debug\Goatanddagger.csprojResolveAssemblyReference.cache
+C:\ProjectsVS\Goatanddagger\Goatanddagger\obj\Debug\Goatanddagger.dll
+C:\ProjectsVS\Goatanddagger\Goatanddagger\obj\Debug\Goatanddagger.pdb
